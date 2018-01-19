@@ -11,3 +11,7 @@ add()
 console.log("outer:a",a)
 console.log("outer:b",b)
 // console.log("outer:b",c)
+
+function aa() {
+
+}
