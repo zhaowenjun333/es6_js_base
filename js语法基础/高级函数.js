@@ -1,3 +1,7 @@
+
+/**
+ * 链式编程
+ */
 arr = [1, 2, 3, 4, 5]
 arr.forEach(x => console.log(x * x))
 var newarr = arr.map(x => x * x)
